@@ -80,5 +80,6 @@ Eliminando un archivo del staging area y del working directory:
     
 
 <br><h2>4. Confirmando cambios (commit) </h2> 
+Agrega los archivos del Staging Area al repositorio especificando una descripción:
 
     git commit -m "Una breve descripción"
