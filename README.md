@@ -2,11 +2,11 @@
 Configuración de Git/GitHub y comandos mas comunes desde la terminal en Linux.
 <br><h2>Instalación</h2>
 
-Manjaro Linux
+Arch Linux / Manjaro
 
     sudo pacman -Syu git
     
-Debian y derivadas (Ubuntu, Linux Mint, KDE Neon)
+Debian / Ubuntu / Linux Mint / KDE Neon
 
     sudo apt install git
     
