@@ -45,5 +45,6 @@ Eliminando un archivo del staging area y del working directory
     git rm -f [archivo]
 
 <b>Untracked files</b>
+
 En git, todos los archivos que estan en el working directory pero que no han sido explicitamente agregados (git add) son marcados como "untracked" (por defecto). Esto significa que existen, pero git aún no esta monitoreando cambios en ellos.
 
