@@ -19,3 +19,5 @@ Crear una carpeta e inicializarla como un nuevo repositorio:
 Incializar la carpeta actual como un repositorio
 
     git init
+    
+Por defecto se va a inicializar en la rama <b>master</b>. Los datos del repositorios se almacenan dentro de la carpeta oculta .<b>git</b> que se crea automáticamente al inicializarlo.
