@@ -1,6 +1,5 @@
 # configure-github-linux
 Configuración de Git/GitHub y comandos mas comunes desde la terminal en Linux.
-
 <br><h2>Instalación</h2>
 
 Manjaro Linux
