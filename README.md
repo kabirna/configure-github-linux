@@ -1,9 +1,27 @@
 # configure-github-linux
 Configuración de Git/GitHub y comandos mas comunes desde la terminal en Linux.
 
-<br><h2>Instalación desde Manjaro Linux</h2>
-    
+<br><h2>Instalación</h2>
+
+Manjaro Linux
+
     sudo pacman -Syu git
+    
+Debian y derivadas (Ubuntu, Linux Mint, KDE Neon)
+
+    sudo apt install git
+    
+<br><h2>Especificando tus datos (email, nombre)</h2>
+
+    git config --global user.email "correo@dominio.com"
+    git config --global user.name "Mi nombre"
+
+Marcar con colores los resultados que muestra en la terminal:
+
+    git config --global color.ui true
+
+
+
         
 <br><h2>Recordando los tres estados de Git</h2>
 
