@@ -77,3 +77,8 @@ Eliminando un archivo del staging area y del working directory:
  
 ><b>Nota</b> | Los archivos que salen en rojo se encuentran en el Working Directory.
     Los archivos que salen en verde se encuentran en el Staging Area.
+    
+
+<br><h2>4. Confirmando cambios (commit) </h2> 
+
+    git commit -m "Una breve descripción"
