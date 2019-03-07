@@ -83,3 +83,11 @@ Eliminando un archivo del staging area y del working directory:
 Agrega los archivos del Staging Area al repositorio especificando una descripción:
 
     git commit -m "Una breve descripción"
+    
+En caso de equivocarse con algúna confirmación (commit) se puede rectificar y concatenar los cambios al último commit con la bandera <b>--amend</b>. Si se usa la bandera <i>-m "descripción"</i> el nuevo mensaje sobrescribirá al anterior, en caso de no hacerlo se mantendrá el antiguo.
+    
+    git commit --amend
+    git commit -m "Nueva descripcion" --amend 
+    
+    
+
