@@ -10,7 +10,7 @@ Debian / Ubuntu / Linux Mint / KDE Neon
 
     sudo apt install git
     
-<br><h2>Especificando tus datos (email, nombre)</h2>
+<br><h2>Configurando git (email, nombre, colores)</h2>
 
     git config --global user.email "correo@dominio.com"
     git config --global user.name "Mi nombre"
