@@ -32,9 +32,17 @@ Agregando el archivo especificado al staging area:
 
     git add [archivo]
 
-Podemos agregar todos los archivos modificados al staging area en un solo paso:
+Agregar todos los archivos (nuevos, modificados, eliminados) al staging area en un solo paso:
     
     git add -A
+    
+Agregar todos los archivos (nuevos, modificados) al staging area en un solo paso:
+    
+    git add .
+    
+Agregar todos los archivos (modificados, eliminados) al staging area en un solo paso:
+    
+    git add -u
     
 Eliminando un archivo especifico del staging area:
 
